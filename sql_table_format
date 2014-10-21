@@ -1,0 +1,1 @@
+create table FCC_L8 ( id varchar(20) not null primary key, position varchar(20) not null, pattern varchar(20) not null, data1 varchar(100) not null,data2 varchar(200) not null,data3 varchar(10) not null,data4 varchar(500) not null );

@@ -1,0 +1,6 @@
+v4_f1	atcacgcctac
+v4_f2	cgatgtcctac
+v4_f3	ttaggcaccta
+its_f1	atcacggcatc
+its_f2	cgatgtgcatc
+its_f3	ttaggcagcat
